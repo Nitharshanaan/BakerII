@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialKeyguardLayout="@layout/layout_widget_recipe"
+    android:initialLayout="@layout/layout_widget_recipe"
+    android:minHeight="110dp"
+    android:minWidth="250dp"
+    android:previewImage="@drawable/baking_appwidget_preview"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="1800000"
+    android:widgetCategory="home_screen"
+    android:configure="com.nitharshanaan.android.baker_ii.WidgetConfigurationActivity"/>
