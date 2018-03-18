@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.nitharshanaan.android.baker_ii.WidgetConfigurationActivity">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/widget_recycler_view_recipes"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/margin_recycler_view_recipes_horizontal"
+        android:layout_marginTop="@dimen/margin_recycler_view_recipes_horizontal" />
+
+</RelativeLayout>

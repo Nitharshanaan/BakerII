@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BakerII</string>
+
+    <string name="recipe" translatable="false">recipe</string>
+    <string name="name" translatable="false">name</string>
+    <string name="servings" translatable="false">servings</string>
+    <string name="ingredients" translatable="false">ingredients</string>
+    <string name="ingredient" translatable="false">ingredient</string>
+    <string name="measure" translatable="false">measure</string>
+    <string name="quantity" translatable="false">quantity</string>
+    <string name="steps" translatable="false">steps</string>
+    <string name="description" translatable="false">description</string>
+    <string name="video_url" translatable="false">videoURL</string>
+    <string name="thumbnail_url" translatable="false">thumbnailURL</string>
+
+    <string name="ingredients_header">Ingredients:</string>
+    <string name="steps_header">Steps:</string>
+    <string name="short_description" translatable="false">shortDescription</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="recipe_image">Recipe image</string>
+    <string name="step_position" translatable="false">step_position</string>
+
+    <string name="action_bar" translatable="false">action_bar</string>
+    <string name="recipe_cannot_be_displayed">Recipe cannot be displayed.</string>
+    <string name="baking_preferences" translatable="false">baking_preferences</string>
+    <string name="serialized_recipe" translatable="false">serialized_recipe</string>
+    <string name="scroll_position" translatable="false">scroll_position</string>
+    <string name="selected_row_index" translatable="false">selected_row_index</string>
+    <string name="choose_recipe">Choose a recipe</string>
+    <string name="error">There was an error.</string>
+</resources>

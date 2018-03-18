@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_card_view_horizontal">16dp</dimen>
+    <dimen name="margin_card_view_vertical">8dp</dimen>
+    <dimen name="radius_card_view_corner">2dp</dimen>
+    <dimen name="radius_card_view_step">0dp</dimen>
+    <dimen name="elevation_card_view">2dp</dimen>
+    <dimen name="elevation_card_view_step">20dp</dimen>
+    <dimen name="elevation_card_view_recipe_details">10dp</dimen>
+    <dimen name="width_image_view_recipe_item">0dp</dimen>
+    <dimen name="height_image_view_recipe_item">160dp</dimen>
+    <dimen name="margin_serves">8dp</dimen>
+    <dimen name="margin_recipe_name">8dp</dimen>
+    <dimen name="margin_recycler_view_recipes_horizontal">8dp</dimen>
+    <dimen name="margin_empty_view">40dp</dimen>
+
+
+
+    <dimen name="padding_recipe_details">8dp</dimen>
+    <dimen name="margin_recipe_details_list_top">8dp</dimen>
+    <dimen name="margin_recipe_steps_list_left">0dp</dimen>
+    <dimen name="margin_recipe_ingredients_list_left">32dp</dimen>
+    <dimen name="margin_recipe_details_sep">16dp</dimen>
+    <dimen name="layout_item_padding">16dp</dimen>
+    <dimen name="textDesc_margin">8dp</dimen>
+    <dimen name="imgView_height">200dp</dimen>
+    <dimen name="imgPadding">8dp</dimen>
+</resources>
